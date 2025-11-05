@@ -110,6 +110,8 @@
 💬 **Telegram:** [t.me/+3PdeknJPJRc4NGNi](https://t.me/+3PdeknJPJRc4NGNi)  
 🌐 **ВКонтакте:** [vk.com/urban_solution](https://vk.com/urban_solution?from=groups)
 
+Поддержать автора: https://pay.cloudtips.ru/p/cea0ffb1
+
 ---
 
 ## 🧾 Лицензия
