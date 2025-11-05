@@ -1,7 +1,7 @@
 <!-- Banner -->
 [![Archiver_v2.0 Banner](https://raw.githubusercontent.com/ZipFile45/Archiver-v2.0/main/docs/screenshots/banner2.png)](https://github.com/ZipFile45/Archiver-v2.0)
 
-<h1 align="center">🗂️ Архиватор v2.0</h1>
+<h1 align="center">🗂️ DBScheduler v2.1</h1>
 
 <p align="center">
   <b>Простая и надёжная программа для автоматического резервного копирования файлов и баз данных</b><br>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10%2F11%20%7C%20Server%202012%2B-blue?logo=windows&logoColor=white" alt="Windows Support"/>
-  <img src="https://img.shields.io/badge/Version-2.0-green" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-2.1-green" alt="Version"/>
   <img src="https://img.shields.io/badge/License-Free-lightgrey" alt="License"/>
   <img src="https://img.shields.io/badge/Build-Passing-success" alt="Status"/>
   <img src="https://img.shields.io/badge/Language-Python-blueviolet" alt="Language"/>
@@ -47,14 +47,15 @@
   - Права на чтение/запись каталогов архивации  
   - Доступ к SMTP-серверу (для Email-уведомлений)  
   - Microsoft Visual C++ Redistributable (последняя версия)
+  - Для Windows Server 2012R2 убедитесь в наличии SSL сертефикатов
 
 ---
 
 ## 🧭 Установка и запуск
 
-1. Скачайте установщик для вашей платформы (**x86/x64**), для серверной версии Backup_Server_x64\x86_Setup_v2.0.exe
+1. Скачайте установщик для вашей платформы (**x86/x64**), для серверной версии DBScheduler_Server_x64\x86_Setup_v2.0.exe
 2. Запустите и следуйте инструкциям  
-3. После установки откройте **Archiver** из меню **Пуск**
+3. После установки откройте **DBScheduler** из меню **Пуск**
 
 ---
 
